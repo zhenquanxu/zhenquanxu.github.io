@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhenquanxu.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/categories/opencv/</loc>
+    <loc>http://localhost:1313/categories/opencv/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/tags/opencv/</loc>
+    <loc>http://localhost:1313/tags/opencv/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://localhost:1313/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://localhost:1313/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://localhost:1313/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/tags/%E7%B2%BE%E7%A5%9E/</loc>
+    <loc>http://localhost:1313/tags/%E7%B2%BE%E7%A5%9E/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/categories/%E4%BA%BA%E7%94%9F/</loc>
+    <loc>http://localhost:1313/categories/%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/tags/%E4%BA%BA%E7%94%9F/</loc>
+    <loc>http://localhost:1313/tags/%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/categories/%E6%80%9D%E8%80%83/</loc>
+    <loc>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/tags/%E6%80%9D%E8%80%83/</loc>
+    <loc>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/p/%E4%B8%80%E8%8C%B6%E4%B8%80%E9%A5%AD%E8%BF%87%E4%B8%80%E7%94%9F/</loc>
+    <loc>http://localhost:1313/p/%E4%B8%80%E8%8C%B6%E4%B8%80%E9%A5%AD%E8%BF%87%E4%B8%80%E7%94%9F/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhenquanxu.github.io/categories/test/</loc>
+    <loc>http://localhost:1313/categories/test/</loc>
   </url><url>
-    <loc>https://zhenquanxu.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://zhenquanxu.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

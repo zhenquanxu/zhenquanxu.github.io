@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 胥振泉</title>
-        <link>https://zhenquanxu.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on 胥振泉</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>zhenquanxu</copyright>
-        <lastBuildDate>Sun, 13 Apr 2025 14:47:46 +0800</lastBuildDate><atom:link href="https://zhenquanxu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 13 Apr 2025 14:47:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Opencv</title>
-        <link>https://zhenquanxu.github.io/categories/opencv/</link>
+        <link>http://localhost:1313/categories/opencv/</link>
         <pubDate>Sun, 13 Apr 2025 14:47:46 +0800</pubDate>
         
-        <guid>https://zhenquanxu.github.io/categories/opencv/</guid>
+        <guid>http://localhost:1313/categories/opencv/</guid>
         <description></description>
         </item>
         <item>
         <title>机器学习</title>
-        <link>https://zhenquanxu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <link>http://localhost:1313/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
         <pubDate>Sun, 13 Apr 2025 14:47:46 +0800</pubDate>
         
-        <guid>https://zhenquanxu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+        <guid>http://localhost:1313/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
         <description></description>
         </item>
         <item>
         <title>人生</title>
-        <link>https://zhenquanxu.github.io/categories/%E4%BA%BA%E7%94%9F/</link>
+        <link>http://localhost:1313/categories/%E4%BA%BA%E7%94%9F/</link>
         <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://zhenquanxu.github.io/categories/%E4%BA%BA%E7%94%9F/</guid>
+        <guid>http://localhost:1313/categories/%E4%BA%BA%E7%94%9F/</guid>
         <description></description>
         </item>
         <item>
         <title>思考</title>
-        <link>https://zhenquanxu.github.io/categories/%E6%80%9D%E8%80%83/</link>
+        <link>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</link>
         <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://zhenquanxu.github.io/categories/%E6%80%9D%E8%80%83/</guid>
+        <guid>http://localhost:1313/categories/%E6%80%9D%E8%80%83/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://zhenquanxu.github.io/categories/test/</link>
+        <link>http://localhost:1313/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://zhenquanxu.github.io/categories/test/</guid>
-        <description>&lt;img src="https://zhenquanxu.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:1313/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>

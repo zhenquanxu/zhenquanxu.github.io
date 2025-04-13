@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
-    <head><meta charset='utf-8'>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="欢迎来看我呀！">
 <title>Tag: 思考 - 胥振泉</title>
 
-<link rel='canonical' href='https://zhenquanxu.github.io/tags/%E6%80%9D%E8%80%83/'>
+<link rel='canonical' href='http://localhost:1313/tags/%E6%80%9D%E8%80%83/'>
 
 <link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Tag: 思考 - 胥振泉">
 <meta property='og:description' content="欢迎来看我呀！">
-<meta property='og:url' content='https://zhenquanxu.github.io/tags/%E6%80%9D%E8%80%83/'>
+<meta property='og:url' content='http://localhost:1313/tags/%E6%80%9D%E8%80%83/'>
 <meta property='og:site_name' content='胥振泉'>
 <meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-04-13T14:47:46&#43;08:00 '/>
 <meta name="twitter:title" content="Tag: 思考 - 胥振泉">
-<meta name="twitter:description" content="欢迎来看我呀！"><link rel="alternate" type="application/rss&#43;xml" href="https://zhenquanxu.github.io/tags/%E6%80%9D%E8%80%83/index.xml">
+<meta name="twitter:description" content="欢迎来看我呀！"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/tags/%E6%80%9D%E8%80%83/index.xml">
+        
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
     </head>
     <body class="">
     <script>
@@ -54,7 +59,7 @@
                     
                     
                         
-                        <img src="/img/face_hu_5db5837227a9da45.jpg" width="300"
+                        <img src="/img/face_hu_1bf9ae56cfc91006.jpg" width="300"
                             height="280" class="site-logo" loading="lazy" alt="Avatar">
                     
                 
@@ -376,7 +381,7 @@
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
-            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+            </script><script type="text/javascript" src="/ts/main.ea853dd9fbf5566c3be88b137e9a15162b9c598ceb9c620b218192d1a75e015b.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');
@@ -389,5 +394,57 @@
     }());
 </script>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
+<meting-js
+    server="netease"
+    type="playlist"
+    id="13061620601"
+    fixed="true">
+</meting-js>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const waitForAPlayer = setInterval(() => {
+            const ap = document.querySelector('meting-js').aplayer;
+            if (ap) {
+                clearInterval(waitForAPlayer);
+                
+                try {
+                    const playInfo = JSON.parse(localStorage.getItem("playInfo"));
+                    if (playInfo && typeof playInfo.index === 'number') {
+                        ap.list.switch(playInfo.index);
+                        setTimeout(() => {
+                            ap.seek(playInfo.currentTime || 0);
+                            if (!playInfo.paused) {
+                                ap.play();
+                            }
+                        }, 500);
+                    }
+                } catch (e) {
+                    console.warn('Failed to restore play state:', e);
+                    localStorage.removeItem("playInfo");
+                }
+            }
+        }, 100);
+    });
+
+    window.onbeforeunload = () => {
+        try {
+            const ap = document.querySelector('meting-js').aplayer;
+            if (ap && ap.list) {
+                const playInfo = {
+                    index: ap.list.index,
+                    currentTime: ap.audio.currentTime,
+                    paused: ap.paused
+                };
+                localStorage.setItem("playInfo", JSON.stringify(playInfo));
+            }
+        } catch (e) {
+            console.warn('Failed to save play state:', e);
+        }
+    };
+</script>
     </body>
 </html>

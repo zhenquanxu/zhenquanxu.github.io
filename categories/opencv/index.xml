@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Opencv on 胥振泉</title>
-        <link>https://zhenquanxu.github.io/categories/opencv/</link>
+        <link>http://localhost:1313/categories/opencv/</link>
         <description>Recent content in Opencv on 胥振泉</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>zhenquanxu</copyright>
-        <lastBuildDate>Sun, 13 Apr 2025 14:47:46 +0800</lastBuildDate><atom:link href="https://zhenquanxu.github.io/categories/opencv/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 13 Apr 2025 14:47:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/opencv/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>opencv学习笔记</title>
-        <link>https://zhenquanxu.github.io/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+        <link>http://localhost:1313/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
         <pubDate>Sun, 13 Apr 2025 14:47:46 +0800</pubDate>
         
-        <guid>https://zhenquanxu.github.io/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+        <guid>http://localhost:1313/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
         <description>&lt;h2 id=&#34;图像读取&#34;&gt;图像读取
 &lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
