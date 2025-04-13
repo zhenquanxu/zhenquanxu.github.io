@@ -2,64 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8191/</loc>
+    <loc>https://zhenquanxu.github.io/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/categories/</loc>
+    <loc>https://zhenquanxu.github.io/categories/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/categories/opencv/</loc>
+    <loc>https://zhenquanxu.github.io/categories/opencv/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/tags/opencv/</loc>
+    <loc>https://zhenquanxu.github.io/tags/opencv/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://zhenquanxu.github.io/p/opencv%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/post/</loc>
+    <loc>https://zhenquanxu.github.io/post/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/tags/</loc>
+    <loc>https://zhenquanxu.github.io/tags/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://zhenquanxu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://zhenquanxu.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-04-13T14:47:46+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/page/</loc>
+    <loc>https://zhenquanxu.github.io/tags/%E7%B2%BE%E7%A5%9E/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhenquanxu.github.io/categories/%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhenquanxu.github.io/tags/%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhenquanxu.github.io/categories/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhenquanxu.github.io/tags/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhenquanxu.github.io/p/%E4%B8%80%E8%8C%B6%E4%B8%80%E9%A5%AD%E8%BF%87%E4%B8%80%E7%94%9F/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhenquanxu.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/archives/</loc>
+    <loc>https://zhenquanxu.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8191/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://zhenquanxu.github.io/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:8191/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://zhenquanxu.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:8191/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8191/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8191/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8191/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8191/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:8191/categories/test/</loc>
-  </url><url>
-    <loc>http://localhost:8191/%E5%85%B3%E4%BA%8E/</loc>
-  </url><url>
-    <loc>http://localhost:8191/search/</loc>
+    <loc>https://zhenquanxu.github.io/search/</loc>
   </url>
 </urlset>
