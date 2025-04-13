@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 胥振泉</title>
+        <link>http://localhost:8191/tags/</link>
+        <description>Recent content in Tags on 胥振泉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>zhenquanxu</copyright>
+        <lastBuildDate>Sun, 13 Apr 2025 14:47:46 +0800</lastBuildDate><atom:link href="http://localhost:8191/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Opencv</title>
+        <link>http://localhost:8191/tags/opencv/</link>
+        <pubDate>Sun, 13 Apr 2025 14:47:46 +0800</pubDate>
+        
+        <guid>http://localhost:8191/tags/opencv/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>机器学习</title>
+        <link>http://localhost:8191/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Sun, 13 Apr 2025 14:47:46 +0800</pubDate>
+        
+        <guid>http://localhost:8191/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Css</title>
+        <link>http://localhost:8191/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:8191/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>http://localhost:8191/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:8191/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>http://localhost:8191/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:8191/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>http://localhost:8191/tags/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:8191/tags/themes/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

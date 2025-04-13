@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 胥振泉</title>
+        <link>http://localhost:8191/page/</link>
+        <description>Recent content in Pages on 胥振泉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>zhenquanxu</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8191/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>档案</title>
+        <link>http://localhost:8191/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:8191/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>http://localhost:8191/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:8191/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h1 id=&#34;个人小传&#34;&gt;【个人小传】
+&lt;/h1&gt;&lt;p&gt;我是西安建筑科技大学&amp;quot;搬砖专业&amp;quot;大三学子（官方名称：建筑工程），日常在钢混森林里画图建模，偶尔也在代码世界快乐搬砖~&lt;/p&gt;
+&lt;p&gt;✨&lt;strong&gt;技能树亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;左手握CAD，右手敲Python，Matlab算得了力学，HTML搭得了网页&lt;/li&gt;
+&lt;li&gt;绩点保持稳如教学楼，尤其对钢结构情有独钟（觉得节点比恋爱关系靠谱多了）&lt;/li&gt;
+&lt;li&gt;国家一级退堂鼓表演艺术家（仅限KTV场景）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;🏃‍♂️&lt;strong&gt;生活B面：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;晨跑型选手&lt;/li&gt;
+&lt;li&gt;书架从《钢结构设计规范》排到《Python从入门到放弃》&lt;/li&gt;
+&lt;li&gt;当代养生青年（保温杯里泡枸杞，到点准时上床的好孩子）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;正带着我的钢结构梦想和半吊子代码能力，寻找下一个学术副本的组队伙伴~ （附：真的不抽烟不蹦迪，宿管阿姨认证的乖崽）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;联系我：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/zhenquanxu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/zhenquanxu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/1708763894?spm_id_from=333.1007.0.0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://space.bilibili.com/1708763894?spm_id_from=333.1007.0.0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>检索</title>
+        <link>http://localhost:8191/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:8191/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
